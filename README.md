@@ -4,7 +4,7 @@ Software development and technical engineering. Focus is on backend architecture
 
 ## Technical Stack
 
-- **Languages:** Python, C++, SQL
+- **Languages:** Python,SQL,C++(basics), typescript(basics)
 - **Frameworks & Tools:** FastAPI, Qt, Git
-- **Foundations:** OOP, Linux, Networking (CCNA), Aerospace/Physics Simulation
-- **Interests:** Applied physics & rocketry, ESP32 embedded systems, core backend automation, 3D printing, Self-Hosting, Right to Repair & Hardware Jailbreaking
+- **Foundations:** OOP, Linux, Networking (CCNA)
+- **Interests:** Applied physics & rocketry, ESP32 embedded systems, backend automation, 3D printing, Self-Hosting, Right to Repair & Hardware Jailbreaking
